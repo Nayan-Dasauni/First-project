@@ -1,2 +1,2 @@
 # First-project
-Collage sample programs 
+Tic Tac Toe
